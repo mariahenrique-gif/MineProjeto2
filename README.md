@@ -1,7 +1,3 @@
-Maria, aqui está um texto que você pode colocar no seu **README.md** com a **descrição do sistema LojaGas** e uma análise de **acoplamento e coesão**:
-
----
-
 ## 📖 Descrição do Sistema LojaGas
 
 O **Sistema LojaGas** é um mini sistema desenvolvido em Java para gerenciar uma loja de gás.  
