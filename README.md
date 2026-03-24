@@ -19,15 +19,6 @@ Ele permite controlar o **estoque de produtos**, registrar **vendas e compras**,
 - **`SalvaArquivos`** → Responsável pela persistência em arquivo.  
 - **Exceções** → `SaldoInsuficienteException`, `QuantidadeInvalidaException`, `EstoqueInsuficienteException`.  
 
----
-
-## 🔎 Análise de Acoplamento e Coesão
-
-
-Claro, Maria! Vamos deixar a análise de **coesão** e **acoplamento** mais robusta e bem escrita para o seu README.md:
-
----
-
 ## 🔎 Análise de Coesão e Acoplamento
 
 ### **Coesão**
