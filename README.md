@@ -56,7 +56,3 @@ Este projeto é um **mini sistema em Java** para gerenciar uma loja de gás, per
 - Os dados são salvos em arquivos de texto simples.
 - O sistema não utiliza banco de dados.
 - A classe de testes (`TesteLojaGas`) demonstra cadastro, pesquisa e remoção de produtos no `Map`.
-
----
-
-Maria, você gostaria que eu também escrevesse o **código da classe `TesteLojaGas`** com exemplos práticos de cadastro, pesquisa e remoção para deixar o projeto pronto para rodar?
